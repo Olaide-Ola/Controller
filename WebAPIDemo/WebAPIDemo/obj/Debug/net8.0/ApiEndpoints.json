@@ -1,0 +1,86 @@
+[
+  {
+    "ContainingType": "WebAPIDemo.Controllers.ShirtsController",
+    "Method": "GetShirt",
+    "RelativePath": "api/shirts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIDemo.Controllers.ShirtsController",
+    "Method": "CreateShirt",
+    "RelativePath": "api/shirts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shirt",
+        "Type": "WebAPIDemo.Model.Shirt",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIDemo.Controllers.ShirtsController",
+    "Method": "GetShirtById",
+    "RelativePath": "api/shirts/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "WebAPIDemo.Model.Shirt",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WebAPIDemo.Controllers.ShirtsController",
+    "Method": "UpdateShirt",
+    "RelativePath": "api/shirts/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIDemo.Controllers.ShirtsController",
+    "Method": "DeleteShirt",
+    "RelativePath": "api/shirts/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

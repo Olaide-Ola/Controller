@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\MyFirstWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1126F4E-C880-4602-8C7A-D14C4273C20C}|WebApp\\WebApp.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\myfirstwebapp\\webapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1126F4E-C880-4602-8C7A-D14C4273C20C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1126F4E-C880-4602-8C7A-D14C4273C20C}|WebApp\\WebApp.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\myfirstwebapp\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1126F4E-C880-4602-8C7A-D14C4273C20C}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 171,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\MyFirstWebApp\\WebApp\\Employee.cs",
+              "RelativeDocumentMoniker": "WebApp\\Employee.cs",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\MyFirstWebApp\\WebApp\\Employee.cs",
+              "RelativeToolTip": "WebApp\\Employee.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T10:59:01.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\MyFirstWebApp\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\MyFirstWebApp\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAGkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T06:17:46.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

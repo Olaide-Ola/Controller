@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\ConsoleAppMV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3E4D08-B242-4CC3-95E8-D13B4BD95D2A}|Logic\\Logic.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\consoleappmv\\logic\\entity\\userinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3E4D08-B242-4CC3-95E8-D13B4BD95D2A}|Logic\\Logic.csproj|solutionrelative:logic\\entity\\userinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3E4D08-B242-4CC3-95E8-D13B4BD95D2A}|Logic\\Logic.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\consoleappmv\\logic\\studentlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3E4D08-B242-4CC3-95E8-D13B4BD95D2A}|Logic\\Logic.csproj|solutionrelative:logic\\studentlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C13E19BF-6A3C-43B9-B3FE-06529F22E761}|ModelProject\\ModelProject.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\consoleappmv\\modelproject\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C13E19BF-6A3C-43B9-B3FE-06529F22E761}|ModelProject\\ModelProject.csproj|solutionrelative:modelproject\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B3E4D08-B242-4CC3-95E8-D13B4BD95D2A}|Logic\\Logic.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\consoleappmv\\logic\\logicinterface\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B3E4D08-B242-4CC3-95E8-D13B4BD95D2A}|Logic\\Logic.csproj|solutionrelative:logic\\logicinterface\\istudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF009817-7168-435C-B780-40D1C0E7D254}|ConsoleAppMV\\ConsoleAppMV.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\consoleappmv\\consoleappmv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF009817-7168-435C-B780-40D1C0E7D254}|ConsoleAppMV\\ConsoleAppMV.csproj|solutionrelative:consoleappmv\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 131,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\ConsoleAppMV\\Logic\\LogicInterface\\IStudent.cs",
+              "RelativeDocumentMoniker": "Logic\\LogicInterface\\IStudent.cs",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\ConsoleAppMV\\Logic\\LogicInterface\\IStudent.cs",
+              "RelativeToolTip": "Logic\\LogicInterface\\IStudent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T21:06:39.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\ConsoleAppMV\\ModelProject\\Student.cs",
+              "RelativeDocumentMoniker": "ModelProject\\Student.cs",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\ConsoleAppMV\\ModelProject\\Student.cs",
+              "RelativeToolTip": "ModelProject\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T20:59:59.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserInput.cs",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\ConsoleAppMV\\Logic\\Entity\\UserInput.cs",
+              "RelativeDocumentMoniker": "Logic\\Entity\\UserInput.cs",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\ConsoleAppMV\\Logic\\Entity\\UserInput.cs",
+              "RelativeToolTip": "Logic\\Entity\\UserInput.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAwwDIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T21:05:39.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\ConsoleAppMV\\Logic\\StudentLogic.cs",
+              "RelativeDocumentMoniker": "Logic\\StudentLogic.cs",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\ConsoleAppMV\\Logic\\StudentLogic.cs",
+              "RelativeToolTip": "Logic\\StudentLogic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T20:59:19.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\ConsoleAppMV\\ConsoleAppMV\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppMV\\Program.cs",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\ConsoleAppMV\\ConsoleAppMV\\Program.cs",
+              "RelativeToolTip": "ConsoleAppMV\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T18:38:45.098Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

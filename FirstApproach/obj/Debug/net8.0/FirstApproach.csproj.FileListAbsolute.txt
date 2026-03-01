@@ -1,0 +1,14 @@
+C:\Users\Olaide Ogunbunmi\source\repos\FirstApproach\bin\Debug\net8.0\FirstApproach.exe
+C:\Users\Olaide Ogunbunmi\source\repos\FirstApproach\bin\Debug\net8.0\FirstApproach.deps.json
+C:\Users\Olaide Ogunbunmi\source\repos\FirstApproach\bin\Debug\net8.0\FirstApproach.runtimeconfig.json
+C:\Users\Olaide Ogunbunmi\source\repos\FirstApproach\bin\Debug\net8.0\FirstApproach.dll
+C:\Users\Olaide Ogunbunmi\source\repos\FirstApproach\bin\Debug\net8.0\FirstApproach.pdb
+C:\Users\Olaide Ogunbunmi\source\repos\FirstApproach\obj\Debug\net8.0\FirstApproach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olaide Ogunbunmi\source\repos\FirstApproach\obj\Debug\net8.0\FirstApproach.AssemblyInfoInputs.cache
+C:\Users\Olaide Ogunbunmi\source\repos\FirstApproach\obj\Debug\net8.0\FirstApproach.AssemblyInfo.cs
+C:\Users\Olaide Ogunbunmi\source\repos\FirstApproach\obj\Debug\net8.0\FirstApproach.csproj.CoreCompileInputs.cache
+C:\Users\Olaide Ogunbunmi\source\repos\FirstApproach\obj\Debug\net8.0\FirstApproach.dll
+C:\Users\Olaide Ogunbunmi\source\repos\FirstApproach\obj\Debug\net8.0\refint\FirstApproach.dll
+C:\Users\Olaide Ogunbunmi\source\repos\FirstApproach\obj\Debug\net8.0\FirstApproach.pdb
+C:\Users\Olaide Ogunbunmi\source\repos\FirstApproach\obj\Debug\net8.0\FirstApproach.genruntimeconfig.cache
+C:\Users\Olaide Ogunbunmi\source\repos\FirstApproach\obj\Debug\net8.0\ref\FirstApproach.dll

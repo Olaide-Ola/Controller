@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OlaideProjectNameInDifferentFolder/1.0.0": {
+        "dependencies": {
+          "ClassLibraryThird": "1.0.0",
+          "OlaideSecondProjectName": "1.0.0"
+        },
+        "runtime": {
+          "OlaideProjectNameInDifferentFolder.dll": {}
+        }
+      },
+      "ClassLibraryThird/1.0.0": {
+        "dependencies": {
+          "OlaideSecondProjectName": "1.0.0"
+        },
+        "runtime": {
+          "ClassLibraryThird.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "OlaideSecondProjectName/1.0.0": {
+        "runtime": {
+          "OlaideSecondProjectName.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OlaideProjectNameInDifferentFolder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryThird/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OlaideSecondProjectName/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

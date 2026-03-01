@@ -1,0 +1,41 @@
+﻿using WebApp;
+
+var builder = WebApplication.CreateBuilder(args);
+builder.WebHost.UseUrls("http://localhost:5214");
+
+var app = builder.Build();
+
+//app.MapGet("/", () => "Hello World!");
+app.Run(async (HttpContext context) =>
+{
+    if (context.Request.Method == "GET")
+    {
+        if (context.Request.Path.StartsWithSegments("/"))
+        {
+            await context.Response.WriteAsync($"The Method is:  {context.Request.Method}\r\n");
+            await context.Response.WriteAsync($"The URL is: {context.Request.Path}\r\n");
+
+            await context.Response.WriteAsync($"\nHeader:\r\n");
+            foreach (var key in context.Request.Headers.Keys)
+            {
+                await context.Response.WriteAsync($"{key}:  {context.Request.Headers[key]}\r\n");
+            }
+        }
+        else if (context.Request.Path.StartsWithSegments("/employees"))
+        {
+
+            var emp = EmployeeRepository.GetEmployees();
+            //await context.Response.WriteAsync("List of employee");
+            foreach (var item in emp)
+            {
+                await context.Response.WriteAsync($"ID: {item.Id}, Name: {item.Name}, Position: {item.Position}, Salary: {item.Salary}");
+
+                //foreach (var Header in context.Request.Headers)
+                //{
+                //    await context.Response.WriteAsync($"{Header.Key}: {Header.Value}\r\n");
+                //}
+            }
+        } 
+    }
+});
+//app.Run();

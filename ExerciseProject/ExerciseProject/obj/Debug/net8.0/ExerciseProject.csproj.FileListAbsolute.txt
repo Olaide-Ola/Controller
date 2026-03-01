@@ -1,0 +1,14 @@
+C:\Users\Olaide Ogunbunmi\source\repos\ExerciseProject\ExerciseProject\bin\Debug\net8.0\ExerciseProject.exe
+C:\Users\Olaide Ogunbunmi\source\repos\ExerciseProject\ExerciseProject\bin\Debug\net8.0\ExerciseProject.deps.json
+C:\Users\Olaide Ogunbunmi\source\repos\ExerciseProject\ExerciseProject\bin\Debug\net8.0\ExerciseProject.runtimeconfig.json
+C:\Users\Olaide Ogunbunmi\source\repos\ExerciseProject\ExerciseProject\bin\Debug\net8.0\ExerciseProject.dll
+C:\Users\Olaide Ogunbunmi\source\repos\ExerciseProject\ExerciseProject\bin\Debug\net8.0\ExerciseProject.pdb
+C:\Users\Olaide Ogunbunmi\source\repos\ExerciseProject\ExerciseProject\obj\Debug\net8.0\ExerciseProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olaide Ogunbunmi\source\repos\ExerciseProject\ExerciseProject\obj\Debug\net8.0\ExerciseProject.AssemblyInfoInputs.cache
+C:\Users\Olaide Ogunbunmi\source\repos\ExerciseProject\ExerciseProject\obj\Debug\net8.0\ExerciseProject.AssemblyInfo.cs
+C:\Users\Olaide Ogunbunmi\source\repos\ExerciseProject\ExerciseProject\obj\Debug\net8.0\ExerciseProject.csproj.CoreCompileInputs.cache
+C:\Users\Olaide Ogunbunmi\source\repos\ExerciseProject\ExerciseProject\obj\Debug\net8.0\ExerciseProject.dll
+C:\Users\Olaide Ogunbunmi\source\repos\ExerciseProject\ExerciseProject\obj\Debug\net8.0\refint\ExerciseProject.dll
+C:\Users\Olaide Ogunbunmi\source\repos\ExerciseProject\ExerciseProject\obj\Debug\net8.0\ExerciseProject.pdb
+C:\Users\Olaide Ogunbunmi\source\repos\ExerciseProject\ExerciseProject\obj\Debug\net8.0\ExerciseProject.genruntimeconfig.cache
+C:\Users\Olaide Ogunbunmi\source\repos\ExerciseProject\ExerciseProject\obj\Debug\net8.0\ref\ExerciseProject.dll

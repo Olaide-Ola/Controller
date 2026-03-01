@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\LearnModelValidation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E09197C-82FC-4E16-886A-333047E6A7B9}|WebApp\\WebApp.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\learnmodelvalidation\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E09197C-82FC-4E16-886A-333047E6A7B9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E09197C-82FC-4E16-886A-333047E6A7B9}|WebApp\\WebApp.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\learnmodelvalidation\\webapp\\employee_ensuresalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E09197C-82FC-4E16-886A-333047E6A7B9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\employee_ensuresalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 171,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee_EnsureSalary.cs",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\LearnModelValidation\\WebApp\\Employee_EnsureSalary.cs",
+              "RelativeDocumentMoniker": "WebApp\\Employee_EnsureSalary.cs",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\LearnModelValidation\\WebApp\\Employee_EnsureSalary.cs",
+              "RelativeToolTip": "WebApp\\Employee_EnsureSalary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T10:08:30.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\LearnModelValidation\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\LearnModelValidation\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAqwEAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-10T08:42:24.667Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

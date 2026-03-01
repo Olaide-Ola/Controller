@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\RoughSheet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38CA541A-A90F-4480-92C5-B7873DFD49F6}|..\\ConsoleApp2\\ConsoleApp2.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\consoleapp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F71D2493-8EEB-4E5A-B11D-6368FA51A460}|..\\ConsoleAppRoughSheet\\ConsoleAppRoughSheet.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\consoleapproughsheet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DDFA2E-FBE1-4AF9-B9C6-0BF99F3ECEEC}|RoughSheet.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\roughsheet\\alreadysolveproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DDFA2E-FBE1-4AF9-B9C6-0BF99F3ECEEC}|RoughSheet.csproj|solutionrelative:alreadysolveproblem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DDFA2E-FBE1-4AF9-B9C6-0BF99F3ECEEC}|RoughSheet.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\roughsheet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DDFA2E-FBE1-4AF9-B9C6-0BF99F3ECEEC}|RoughSheet.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DDFA2E-FBE1-4AF9-B9C6-0BF99F3ECEEC}|RoughSheet.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\roughsheet\\deepseek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DDFA2E-FBE1-4AF9-B9C6-0BF99F3ECEEC}|RoughSheet.csproj|solutionrelative:deepseek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 131,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T23:09:24.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\ConsoleAppRoughSheet\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleAppRoughSheet\\Program.cs",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\ConsoleAppRoughSheet\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleAppRoughSheet\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T05:57:08.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlreadySolveProblem.cs",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\RoughSheet\\AlreadySolveProblem.cs",
+              "RelativeDocumentMoniker": "AlreadySolveProblem.cs",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\RoughSheet\\AlreadySolveProblem.cs",
+              "RelativeToolTip": "AlreadySolveProblem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T06:52:26.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeepSeek.cs",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\RoughSheet\\DeepSeek.cs",
+              "RelativeDocumentMoniker": "DeepSeek.cs",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\RoughSheet\\DeepSeek.cs",
+              "RelativeToolTip": "DeepSeek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:56:00.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\RoughSheet\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\RoughSheet\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T11:02:38.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

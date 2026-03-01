@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\OlaideSolutionNameInDifferentFolder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52867FA7-638F-447A-A282-CB37D59E5C95}|OlaideProjectNameInDifferentFolder\\OlaideProjectNameInDifferentFolder.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\olaidesolutionnameindifferentfolder\\olaideprojectnameindifferentfolder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52867FA7-638F-447A-A282-CB37D59E5C95}|OlaideProjectNameInDifferentFolder\\OlaideProjectNameInDifferentFolder.csproj|solutionrelative:olaideprojectnameindifferentfolder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED5F119-B08A-497E-9DA4-68D70F931DD7}|OlaideSecondProjectName\\OlaideSecondProjectName.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\olaidesolutionnameindifferentfolder\\olaidesecondprojectname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED5F119-B08A-497E-9DA4-68D70F931DD7}|OlaideSecondProjectName\\OlaideSecondProjectName.csproj|solutionrelative:olaidesecondprojectname\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D61BC7-37F2-493B-8403-7D27154D7F96}|ClassLibraryThird\\ClassLibraryThird.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\olaidesolutionnameindifferentfolder\\classlibrarythird\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D61BC7-37F2-493B-8403-7D27154D7F96}|ClassLibraryThird\\ClassLibraryThird.csproj|solutionrelative:classlibrarythird\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED5F119-B08A-497E-9DA4-68D70F931DD7}|OlaideSecondProjectName\\OlaideSecondProjectName.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\olaidesolutionnameindifferentfolder\\olaidesecondprojectname\\secondprojectfolder\\folderclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED5F119-B08A-497E-9DA4-68D70F931DD7}|OlaideSecondProjectName\\OlaideSecondProjectName.csproj|solutionrelative:olaidesecondprojectname\\secondprojectfolder\\folderclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED5F119-B08A-497E-9DA4-68D70F931DD7}|OlaideSecondProjectName\\OlaideSecondProjectName.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\olaidesolutionnameindifferentfolder\\olaidesecondprojectname\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED5F119-B08A-497E-9DA4-68D70F931DD7}|OlaideSecondProjectName\\OlaideSecondProjectName.csproj|solutionrelative:olaidesecondprojectname\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED5F119-B08A-497E-9DA4-68D70F931DD7}|OlaideSecondProjectName\\OlaideSecondProjectName.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\olaidesolutionnameindifferentfolder\\olaidesecondprojectname\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3ED5F119-B08A-497E-9DA4-68D70F931DD7}|OlaideSecondProjectName\\OlaideSecondProjectName.csproj|solutionrelative:olaidesecondprojectname\\textfile1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED5F119-B08A-497E-9DA4-68D70F931DD7}|OlaideSecondProjectName\\OlaideSecondProjectName.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\olaidesolutionnameindifferentfolder\\olaidesecondprojectname\\sevondclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED5F119-B08A-497E-9DA4-68D70F931DD7}|OlaideSecondProjectName\\OlaideSecondProjectName.csproj|solutionrelative:olaidesecondprojectname\\sevondclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED5F119-B08A-497E-9DA4-68D70F931DD7}|OlaideSecondProjectName\\OlaideSecondProjectName.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\olaidesolutionnameindifferentfolder\\olaidesecondprojectname\\file1.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{3ED5F119-B08A-497E-9DA4-68D70F931DD7}|OlaideSecondProjectName\\OlaideSecondProjectName.csproj|solutionrelative:olaidesecondprojectname\\file1.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\Olaide Ogunbunmi\\source\\repos\\OlaideSolutionNameInDifferentFolder\\Script1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Script1.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\Olaide Ogunbunmi\\source\\repos\\OlaideSolutionNameInDifferentFolder\\StyleSheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:StyleSheet1.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|C:\\Users\\Olaide Ogunbunmi\\source\\repos\\OlaideSolutionNameInDifferentFolder\\Document.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|Solution Items{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}|solutionrelative:Document.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FolderClass.cs",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\OlaideSolutionNameInDifferentFolder\\OlaideSecondProjectName\\SecondProjectFolder\\FolderClass.cs",
+              "RelativeDocumentMoniker": "OlaideSecondProjectName\\SecondProjectFolder\\FolderClass.cs",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\OlaideSolutionNameInDifferentFolder\\OlaideSecondProjectName\\SecondProjectFolder\\FolderClass.cs",
+              "RelativeToolTip": "OlaideSecondProjectName\\SecondProjectFolder\\FolderClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:36:18.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "file1.md",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\OlaideSolutionNameInDifferentFolder\\OlaideSecondProjectName\\file1.md",
+              "RelativeDocumentMoniker": "OlaideSecondProjectName\\file1.md",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\OlaideSolutionNameInDifferentFolder\\OlaideSecondProjectName\\file1.md",
+              "RelativeToolTip": "OlaideSecondProjectName\\file1.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-06-06T11:28:45.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\OlaideSolutionNameInDifferentFolder\\OlaideSecondProjectName\\Interface1.cs",
+              "RelativeDocumentMoniker": "OlaideSecondProjectName\\Interface1.cs",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\OlaideSolutionNameInDifferentFolder\\OlaideSecondProjectName\\Interface1.cs",
+              "RelativeToolTip": "OlaideSecondProjectName\\Interface1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:28:22.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TextFile1.txt",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\OlaideSolutionNameInDifferentFolder\\OlaideSecondProjectName\\TextFile1.txt",
+              "RelativeDocumentMoniker": "OlaideSecondProjectName\\TextFile1.txt",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\OlaideSolutionNameInDifferentFolder\\OlaideSecondProjectName\\TextFile1.txt",
+              "RelativeToolTip": "OlaideSecondProjectName\\TextFile1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-06T11:27:43.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SevondClass.cs",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\OlaideSolutionNameInDifferentFolder\\OlaideSecondProjectName\\SevondClass.cs",
+              "RelativeDocumentMoniker": "OlaideSecondProjectName\\SevondClass.cs",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\OlaideSolutionNameInDifferentFolder\\OlaideSecondProjectName\\SevondClass.cs",
+              "RelativeToolTip": "OlaideSecondProjectName\\SevondClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T11:22:59.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Script1.js",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\OlaideSolutionNameInDifferentFolder\\Script1.js",
+              "RelativeDocumentMoniker": "Script1.js",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\OlaideSolutionNameInDifferentFolder\\Script1.js",
+              "RelativeToolTip": "Script1.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-06T10:42:02.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StyleSheet1.css",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\OlaideSolutionNameInDifferentFolder\\StyleSheet1.css",
+              "RelativeDocumentMoniker": "StyleSheet1.css",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\OlaideSolutionNameInDifferentFolder\\StyleSheet1.css",
+              "RelativeToolTip": "StyleSheet1.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-06T10:38:59.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Document.html",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\OlaideSolutionNameInDifferentFolder\\Document.html",
+              "RelativeDocumentMoniker": "Document.html",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\OlaideSolutionNameInDifferentFolder\\Document.html",
+              "RelativeToolTip": "Document.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-06T10:23:37.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\OlaideSolutionNameInDifferentFolder\\ClassLibraryThird\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibraryThird\\Class1.cs",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\OlaideSolutionNameInDifferentFolder\\ClassLibraryThird\\Class1.cs",
+              "RelativeToolTip": "ClassLibraryThird\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T10:12:42.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\OlaideSolutionNameInDifferentFolder\\OlaideSecondProjectName\\Program.cs",
+              "RelativeDocumentMoniker": "OlaideSecondProjectName\\Program.cs",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\OlaideSolutionNameInDifferentFolder\\OlaideSecondProjectName\\Program.cs",
+              "RelativeToolTip": "OlaideSecondProjectName\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:58:27.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\OlaideSolutionNameInDifferentFolder\\OlaideProjectNameInDifferentFolder\\Program.cs",
+              "RelativeDocumentMoniker": "OlaideProjectNameInDifferentFolder\\Program.cs",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\OlaideSolutionNameInDifferentFolder\\OlaideProjectNameInDifferentFolder\\Program.cs*",
+              "RelativeToolTip": "OlaideProjectNameInDifferentFolder\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:27:27.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

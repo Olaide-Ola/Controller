@@ -1,0 +1,14 @@
+C:\Users\Olaide Ogunbunmi\source\repos\RoughSheet\bin\Debug\net8.0\RoughSheet.exe
+C:\Users\Olaide Ogunbunmi\source\repos\RoughSheet\bin\Debug\net8.0\RoughSheet.deps.json
+C:\Users\Olaide Ogunbunmi\source\repos\RoughSheet\bin\Debug\net8.0\RoughSheet.runtimeconfig.json
+C:\Users\Olaide Ogunbunmi\source\repos\RoughSheet\bin\Debug\net8.0\RoughSheet.dll
+C:\Users\Olaide Ogunbunmi\source\repos\RoughSheet\bin\Debug\net8.0\RoughSheet.pdb
+C:\Users\Olaide Ogunbunmi\source\repos\RoughSheet\obj\Debug\net8.0\RoughSheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olaide Ogunbunmi\source\repos\RoughSheet\obj\Debug\net8.0\RoughSheet.AssemblyInfoInputs.cache
+C:\Users\Olaide Ogunbunmi\source\repos\RoughSheet\obj\Debug\net8.0\RoughSheet.AssemblyInfo.cs
+C:\Users\Olaide Ogunbunmi\source\repos\RoughSheet\obj\Debug\net8.0\RoughSheet.csproj.CoreCompileInputs.cache
+C:\Users\Olaide Ogunbunmi\source\repos\RoughSheet\obj\Debug\net8.0\RoughSheet.dll
+C:\Users\Olaide Ogunbunmi\source\repos\RoughSheet\obj\Debug\net8.0\refint\RoughSheet.dll
+C:\Users\Olaide Ogunbunmi\source\repos\RoughSheet\obj\Debug\net8.0\RoughSheet.pdb
+C:\Users\Olaide Ogunbunmi\source\repos\RoughSheet\obj\Debug\net8.0\RoughSheet.genruntimeconfig.cache
+C:\Users\Olaide Ogunbunmi\source\repos\RoughSheet\obj\Debug\net8.0\ref\RoughSheet.dll

@@ -1,0 +1,9 @@
+2026-02-16 19:45:19.461 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/api/student/all - null null
+2026-02-16 19:45:19.474 +01:00 [INF] Executing endpoint 'CollegeApp.Controllers.StudentController.GetStudents (CollegeApp)'
+2026-02-16 19:45:19.494 +01:00 [INF] Route matched with {action = "GetStudents", controller = "Student"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.ActionResult`1[System.Collections.Generic.List`1[CollegeApp.Model.StudentDTO]] GetStudents() on controller CollegeApp.Controllers.StudentController (CollegeApp).
+2026-02-16 19:45:19.496 +01:00 [INF] GetStudents endpoint has started
+2026-02-16 19:45:19.505 +01:00 [INF] Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[CollegeApp.Model.StudentDTO, CollegeApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2026-02-16 19:45:19.758 +01:00 [INF] Executed action CollegeApp.Controllers.StudentController.GetStudents (CollegeApp) in 260.2144ms
+2026-02-16 19:45:19.758 +01:00 [INF] Executed endpoint 'CollegeApp.Controllers.StudentController.GetStudents (CollegeApp)'
+2026-02-16 19:45:19.759 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/api/student/all - 200 186 application/json; charset=utf-8 297.2111ms
+2026-02-16 19:45:50.170 +01:00 [INF] Application is shutting down...

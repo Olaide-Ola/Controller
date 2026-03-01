@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Olaide",
+    "age": 29,
+    "birthday": "1996-05-23",
+    "id": 1996
+  },
+  {
+    "name": "Olawale",
+    "age": 39,
+    "birthday": "1998-07-14",
+    "id": 1998
+  },
+  {
+    "name": "Toyin",
+    "age": 65,
+    "birthday": "1962-11-22",
+    "id": 1962
+  }
+]

@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\WebAPIDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0ADC7E4-69FC-4BE5-A9CC-DF8E3615E4D0}|WebAPIDemo\\WebAPIDemo.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\webapidemo\\webapidemo\\model\\repositories\\shirtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0ADC7E4-69FC-4BE5-A9CC-DF8E3615E4D0}|WebAPIDemo\\WebAPIDemo.csproj|solutionrelative:webapidemo\\model\\repositories\\shirtrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0ADC7E4-69FC-4BE5-A9CC-DF8E3615E4D0}|WebAPIDemo\\WebAPIDemo.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\webapidemo\\webapidemo\\controllers\\shirtscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0ADC7E4-69FC-4BE5-A9CC-DF8E3615E4D0}|WebAPIDemo\\WebAPIDemo.csproj|solutionrelative:webapidemo\\controllers\\shirtscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0ADC7E4-69FC-4BE5-A9CC-DF8E3615E4D0}|WebAPIDemo\\WebAPIDemo.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\webapidemo\\webapidemo\\filters\\shirt_validateshirtidfilterattribte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0ADC7E4-69FC-4BE5-A9CC-DF8E3615E4D0}|WebAPIDemo\\WebAPIDemo.csproj|solutionrelative:webapidemo\\filters\\shirt_validateshirtidfilterattribte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0ADC7E4-69FC-4BE5-A9CC-DF8E3615E4D0}|WebAPIDemo\\WebAPIDemo.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\webapidemo\\webapidemo\\model\\shirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0ADC7E4-69FC-4BE5-A9CC-DF8E3615E4D0}|WebAPIDemo\\WebAPIDemo.csproj|solutionrelative:webapidemo\\model\\shirt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0ADC7E4-69FC-4BE5-A9CC-DF8E3615E4D0}|WebAPIDemo\\WebAPIDemo.csproj|c:\\users\\olaide ogunbunmi\\source\\repos\\webapidemo\\webapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0ADC7E4-69FC-4BE5-A9CC-DF8E3615E4D0}|WebAPIDemo\\WebAPIDemo.csproj|solutionrelative:webapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 171,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShirtsController.cs",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\WebAPIDemo\\WebAPIDemo\\Controllers\\ShirtsController.cs",
+              "RelativeDocumentMoniker": "WebAPIDemo\\Controllers\\ShirtsController.cs",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\WebAPIDemo\\WebAPIDemo\\Controllers\\ShirtsController.cs",
+              "RelativeToolTip": "WebAPIDemo\\Controllers\\ShirtsController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T20:15:51.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Shirt_ValidateShirtIdFilterAttribte.cs",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\WebAPIDemo\\WebAPIDemo\\Filters\\Shirt_ValidateShirtIdFilterAttribte.cs",
+              "RelativeDocumentMoniker": "WebAPIDemo\\Filters\\Shirt_ValidateShirtIdFilterAttribte.cs",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\WebAPIDemo\\WebAPIDemo\\Filters\\Shirt_ValidateShirtIdFilterAttribte.cs",
+              "RelativeToolTip": "WebAPIDemo\\Filters\\Shirt_ValidateShirtIdFilterAttribte.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T06:02:30.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ShirtRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\WebAPIDemo\\WebAPIDemo\\Model\\Repositories\\ShirtRepository.cs",
+              "RelativeDocumentMoniker": "WebAPIDemo\\Model\\Repositories\\ShirtRepository.cs",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\WebAPIDemo\\WebAPIDemo\\Model\\Repositories\\ShirtRepository.cs",
+              "RelativeToolTip": "WebAPIDemo\\Model\\Repositories\\ShirtRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowCoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T05:06:07.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shirt.cs",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\WebAPIDemo\\WebAPIDemo\\Model\\Shirt.cs",
+              "RelativeDocumentMoniker": "WebAPIDemo\\Model\\Shirt.cs",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\WebAPIDemo\\WebAPIDemo\\Model\\Shirt.cs",
+              "RelativeToolTip": "WebAPIDemo\\Model\\Shirt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T01:53:38.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\WebAPIDemo\\WebAPIDemo\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPIDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Olaide Ogunbunmi\\source\\repos\\WebAPIDemo\\WebAPIDemo\\Program.cs",
+              "RelativeToolTip": "WebAPIDemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T20:02:05.112Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
