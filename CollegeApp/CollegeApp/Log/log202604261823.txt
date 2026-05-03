@@ -1,0 +1,20 @@
+2026-04-26 18:23:41.340 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/api/User/getalluser - null null
+2026-04-26 18:23:41.363 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/api/User/getalluser - null null
+2026-04-26 18:23:41.375 +01:00 [INF] Executing endpoint 'CollegeApp.Controllers.UserController.GetUsersAsync (CollegeApp)'
+2026-04-26 18:23:41.375 +01:00 [INF] Executing endpoint 'CollegeApp.Controllers.UserController.GetUsersAsync (CollegeApp)'
+2026-04-26 18:23:41.381 +01:00 [INF] Route matched with {action = "GetUsers", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CollegeApp.Model.APIResponse]] GetUsersAsync() on controller CollegeApp.Controllers.UserController (CollegeApp).
+2026-04-26 18:23:41.383 +01:00 [INF] Route matched with {action = "GetUsers", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CollegeApp.Model.APIResponse]] GetUsersAsync() on controller CollegeApp.Controllers.UserController (CollegeApp).
+2026-04-26 18:23:41.481 +01:00 [INF] Executed DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [u].[Id], [u].[CreatededDate], [u].[IsActive], [u].[IsDeleted], [u].[ModifiedDate], [u].[Password], [u].[PasswordSalt], [u].[UserTypeId], [u].[Username]
+FROM [Users] AS [u]
+2026-04-26 18:23:41.482 +01:00 [INF] Executed DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [u].[Id], [u].[CreatededDate], [u].[IsActive], [u].[IsDeleted], [u].[ModifiedDate], [u].[Password], [u].[PasswordSalt], [u].[UserTypeId], [u].[Username]
+FROM [Users] AS [u]
+2026-04-26 18:23:41.504 +01:00 [INF] Executing OkObjectResult, writing value of type 'CollegeApp.Model.APIResponse'.
+2026-04-26 18:23:41.505 +01:00 [INF] Executing OkObjectResult, writing value of type 'CollegeApp.Model.APIResponse'.
+2026-04-26 18:23:41.514 +01:00 [INF] Executed action CollegeApp.Controllers.UserController.GetUsersAsync (CollegeApp) in 130.458ms
+2026-04-26 18:23:41.514 +01:00 [INF] Executed action CollegeApp.Controllers.UserController.GetUsersAsync (CollegeApp) in 130.458ms
+2026-04-26 18:23:41.514 +01:00 [INF] Executed endpoint 'CollegeApp.Controllers.UserController.GetUsersAsync (CollegeApp)'
+2026-04-26 18:23:41.514 +01:00 [INF] Executed endpoint 'CollegeApp.Controllers.UserController.GetUsersAsync (CollegeApp)'
+2026-04-26 18:23:41.514 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/api/User/getalluser - 200 239 application/json; charset=utf-8 201.9302ms
+2026-04-26 18:23:41.514 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/api/User/getalluser - 200 239 application/json; charset=utf-8 201.9302ms

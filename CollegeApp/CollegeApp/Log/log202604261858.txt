@@ -1,0 +1,28 @@
+2026-04-26 18:58:48.934 +01:00 [INF] User profile is available. Using 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-04-26 18:58:48.967 +01:00 [INF] User profile is available. Using 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-04-26 18:58:49.235 +01:00 [INF] Now listening on: https://localhost:7174
+2026-04-26 18:58:49.235 +01:00 [INF] Now listening on: https://localhost:7174
+2026-04-26 18:58:49.239 +01:00 [INF] Now listening on: http://localhost:5099
+2026-04-26 18:58:49.241 +01:00 [INF] Now listening on: http://localhost:5099
+2026-04-26 18:58:49.365 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-26 18:58:49.365 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-26 18:58:49.368 +01:00 [INF] Hosting environment: Development
+2026-04-26 18:58:49.368 +01:00 [INF] Hosting environment: Development
+2026-04-26 18:58:49.371 +01:00 [INF] Content root path: C:\Users\user\source\repos\Controller\CollegeApp\CollegeApp
+2026-04-26 18:58:49.371 +01:00 [INF] Content root path: C:\Users\user\source\repos\Controller\CollegeApp\CollegeApp
+2026-04-26 18:58:49.972 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/swagger/index.html - null null
+2026-04-26 18:58:49.976 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/swagger/index.html - null null
+2026-04-26 18:58:50.218 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-26 18:58:50.218 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/_vs/browserLink - null null
+2026-04-26 18:58:50.218 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-26 18:58:50.219 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/_vs/browserLink - null null
+2026-04-26 18:58:50.233 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/swagger/index.html - 200 null text/html;charset=utf-8 268.2457ms
+2026-04-26 18:58:50.235 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/swagger/index.html - 200 null text/html;charset=utf-8 268.2457ms
+2026-04-26 18:58:50.239 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 20.8727ms
+2026-04-26 18:58:50.239 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 20.8727ms
+2026-04-26 18:58:50.284 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/_vs/browserLink - 200 null text/javascript; charset=UTF-8 66.0449ms
+2026-04-26 18:58:50.284 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/_vs/browserLink - 200 null text/javascript; charset=UTF-8 66.0449ms
+2026-04-26 18:58:50.321 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/swagger/v1/swagger.json - null null
+2026-04-26 18:58:50.321 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/swagger/v1/swagger.json - null null
+2026-04-26 18:58:50.396 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 75.0022ms
+2026-04-26 18:58:50.396 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 75.0022ms

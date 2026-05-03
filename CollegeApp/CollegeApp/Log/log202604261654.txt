@@ -1,0 +1,16 @@
+2026-04-26 16:54:00.030 +01:00 [WRN] You do not have a valid license key for the Lucky Penny software AutoMapper. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-04-26 16:54:00.034 +01:00 [WRN] You do not have a valid license key for the Lucky Penny software AutoMapper. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-04-26 16:54:00.685 +01:00 [INF] Executed DbCommand (48ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [u].[Id], [u].[CreatededDate], [u].[IsActive], [u].[IsDeleted], [u].[ModifiedDate], [u].[Password], [u].[PasswordSalt], [u].[UserTypeId], [u].[Username]
+FROM [Users] AS [u]
+2026-04-26 16:54:00.686 +01:00 [INF] Executed DbCommand (48ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [u].[Id], [u].[CreatededDate], [u].[IsActive], [u].[IsDeleted], [u].[ModifiedDate], [u].[Password], [u].[PasswordSalt], [u].[UserTypeId], [u].[Username]
+FROM [Users] AS [u]
+2026-04-26 16:54:00.755 +01:00 [INF] Executing OkObjectResult, writing value of type 'CollegeApp.Model.APIResponse'.
+2026-04-26 16:54:00.756 +01:00 [INF] Executing OkObjectResult, writing value of type 'CollegeApp.Model.APIResponse'.
+2026-04-26 16:54:00.863 +01:00 [INF] Executed action CollegeApp.Controllers.UserController.GetUsersAsync (CollegeApp) in 1968.2876ms
+2026-04-26 16:54:00.863 +01:00 [INF] Executed action CollegeApp.Controllers.UserController.GetUsersAsync (CollegeApp) in 1968.2876ms
+2026-04-26 16:54:00.863 +01:00 [INF] Executed endpoint 'CollegeApp.Controllers.UserController.GetUsersAsync (CollegeApp)'
+2026-04-26 16:54:00.863 +01:00 [INF] Executed endpoint 'CollegeApp.Controllers.UserController.GetUsersAsync (CollegeApp)'
+2026-04-26 16:54:00.870 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/api/User/getalluser - 200 294 application/json; charset=utf-8 2063.6593ms
+2026-04-26 16:54:00.870 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/api/User/getalluser - 200 294 application/json; charset=utf-8 2063.6593ms

@@ -1,0 +1,52 @@
+2026-04-18 22:37:16.289 +01:00 [INF] User profile is available. Using 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-04-18 22:37:16.329 +01:00 [INF] User profile is available. Using 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-04-18 22:37:16.468 +01:00 [INF] Now listening on: https://localhost:7174
+2026-04-18 22:37:16.468 +01:00 [INF] Now listening on: https://localhost:7174
+2026-04-18 22:37:16.468 +01:00 [INF] Now listening on: http://localhost:5099
+2026-04-18 22:37:16.470 +01:00 [INF] Now listening on: http://localhost:5099
+2026-04-18 22:37:16.587 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-18 22:37:16.587 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-18 22:37:16.587 +01:00 [INF] Hosting environment: Development
+2026-04-18 22:37:16.587 +01:00 [INF] Hosting environment: Development
+2026-04-18 22:37:16.587 +01:00 [INF] Content root path: C:\Users\user\source\repos\Controller\CollegeApp\CollegeApp
+2026-04-18 22:37:16.587 +01:00 [INF] Content root path: C:\Users\user\source\repos\Controller\CollegeApp\CollegeApp
+2026-04-18 22:37:16.899 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/swagger/index.html - null null
+2026-04-18 22:37:16.903 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/swagger/index.html - null null
+2026-04-18 22:37:17.078 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/swagger/index.html - 200 null text/html;charset=utf-8 180.893ms
+2026-04-18 22:37:17.079 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-18 22:37:17.082 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/swagger/index.html - 200 null text/html;charset=utf-8 180.893ms
+2026-04-18 22:37:17.082 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-18 22:37:17.079 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/_vs/browserLink - null null
+2026-04-18 22:37:17.082 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/_vs/browserLink - null null
+2026-04-18 22:37:17.085 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 6.4062ms
+2026-04-18 22:37:17.086 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 6.4062ms
+2026-04-18 22:37:17.111 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/_vs/browserLink - 200 null text/javascript; charset=UTF-8 31.7059ms
+2026-04-18 22:37:17.111 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/_vs/browserLink - 200 null text/javascript; charset=UTF-8 31.7059ms
+2026-04-18 22:37:17.172 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/swagger/v1/swagger.json - null null
+2026-04-18 22:37:17.172 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/swagger/v1/swagger.json - null null
+2026-04-18 22:37:17.222 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 50.1163ms
+2026-04-18 22:37:17.222 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 50.1163ms
+2026-04-18 22:37:32.655 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/api/RolePrivilege/1 - null null
+2026-04-18 22:37:32.656 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/api/RolePrivilege/1 - null null
+2026-04-18 22:37:32.684 +01:00 [INF] Executing endpoint 'CollegeApp.Controllers.RolePrivilegeController.GetRolePrivilegeByIdAsync (CollegeApp)'
+2026-04-18 22:37:32.684 +01:00 [INF] Executing endpoint 'CollegeApp.Controllers.RolePrivilegeController.GetRolePrivilegeByIdAsync (CollegeApp)'
+2026-04-18 22:37:32.712 +01:00 [INF] Route matched with {action = "GetRolePrivilegeById", controller = "RolePrivilege"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CollegeApp.Model.APIResponse]] GetRolePrivilegeByIdAsync(Int32) on controller CollegeApp.Controllers.RolePrivilegeController (CollegeApp).
+2026-04-18 22:37:32.713 +01:00 [INF] Route matched with {action = "GetRolePrivilegeById", controller = "RolePrivilege"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CollegeApp.Model.APIResponse]] GetRolePrivilegeByIdAsync(Int32) on controller CollegeApp.Controllers.RolePrivilegeController (CollegeApp).
+2026-04-18 22:37:32.819 +01:00 [WRN] You do not have a valid license key for the Lucky Penny software AutoMapper. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-04-18 22:37:32.819 +01:00 [WRN] You do not have a valid license key for the Lucky Penny software AutoMapper. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-04-18 22:37:34.195 +01:00 [INF] Executed DbCommand (56ms) [Parameters=[@__roleId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [r].[Id], [r].[CreatededDate], [r].[Description], [r].[IsActive], [r].[IsDeleted], [r].[ModifiedDate], [r].[RoleId], [r].[RolePrivilegeName]
+FROM [RolePrivileges] AS [r]
+WHERE [r].[RoleId] = @__roleId_0
+2026-04-18 22:37:34.196 +01:00 [INF] Executed DbCommand (56ms) [Parameters=[@__roleId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [r].[Id], [r].[CreatededDate], [r].[Description], [r].[IsActive], [r].[IsDeleted], [r].[ModifiedDate], [r].[RoleId], [r].[RolePrivilegeName]
+FROM [RolePrivileges] AS [r]
+WHERE [r].[RoleId] = @__roleId_0
+2026-04-18 22:37:34.254 +01:00 [INF] Executing OkObjectResult, writing value of type 'CollegeApp.Model.APIResponse'.
+2026-04-18 22:37:34.255 +01:00 [INF] Executing OkObjectResult, writing value of type 'CollegeApp.Model.APIResponse'.
+2026-04-18 22:37:34.339 +01:00 [INF] Executed action CollegeApp.Controllers.RolePrivilegeController.GetRolePrivilegeByIdAsync (CollegeApp) in 1621.4116ms
+2026-04-18 22:37:34.339 +01:00 [INF] Executed action CollegeApp.Controllers.RolePrivilegeController.GetRolePrivilegeByIdAsync (CollegeApp) in 1621.4116ms
+2026-04-18 22:37:34.340 +01:00 [INF] Executed endpoint 'CollegeApp.Controllers.RolePrivilegeController.GetRolePrivilegeByIdAsync (CollegeApp)'
+2026-04-18 22:37:34.340 +01:00 [INF] Executed endpoint 'CollegeApp.Controllers.RolePrivilegeController.GetRolePrivilegeByIdAsync (CollegeApp)'
+2026-04-18 22:37:34.347 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/api/RolePrivilege/1 - 200 170 application/json; charset=utf-8 1692.0536ms
+2026-04-18 22:37:34.348 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/api/RolePrivilege/1 - 200 170 application/json; charset=utf-8 1692.0536ms

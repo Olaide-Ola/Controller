@@ -12,3 +12,18 @@ C:\Users\Olaide Ogunbunmi\source\repos\OlaideSolutionNameInDifferentFolder\Olaid
 C:\Users\Olaide Ogunbunmi\source\repos\OlaideSolutionNameInDifferentFolder\OlaideSecondProjectName\obj\Debug\net8.0\OlaideSecondProjectName.pdb
 C:\Users\Olaide Ogunbunmi\source\repos\OlaideSolutionNameInDifferentFolder\OlaideSecondProjectName\obj\Debug\net8.0\OlaideSecondProjectName.genruntimeconfig.cache
 C:\Users\Olaide Ogunbunmi\source\repos\OlaideSolutionNameInDifferentFolder\OlaideSecondProjectName\obj\Debug\net8.0\ref\OlaideSecondProjectName.dll
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\OlaideSecondProjectName\bin\Debug\net8.0\OlaideSecondProjectName.exe
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\OlaideSecondProjectName\bin\Debug\net8.0\OlaideSecondProjectName.deps.json
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\OlaideSecondProjectName\bin\Debug\net8.0\OlaideSecondProjectName.runtimeconfig.json
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\OlaideSecondProjectName\bin\Debug\net8.0\OlaideSecondProjectName.dll
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\OlaideSecondProjectName\bin\Debug\net8.0\OlaideSecondProjectName.pdb
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\OlaideSecondProjectName\obj\Debug\net8.0\OlaideSecondProjectName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\OlaideSecondProjectName\obj\Debug\net8.0\OlaideSecondProjectName.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\OlaideSecondProjectName\obj\Debug\net8.0\OlaideSecondProjectName.AssemblyInfo.cs
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\OlaideSecondProjectName\obj\Debug\net8.0\OlaideSecondProjectName.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\OlaideSecondProjectName\obj\Debug\net8.0\OlaideSecondProjectName.sourcelink.json
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\OlaideSecondProjectName\obj\Debug\net8.0\OlaideSecondProjectName.dll
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\OlaideSecondProjectName\obj\Debug\net8.0\refint\OlaideSecondProjectName.dll
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\OlaideSecondProjectName\obj\Debug\net8.0\OlaideSecondProjectName.pdb
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\OlaideSecondProjectName\obj\Debug\net8.0\OlaideSecondProjectName.genruntimeconfig.cache
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\OlaideSecondProjectName\obj\Debug\net8.0\ref\OlaideSecondProjectName.dll

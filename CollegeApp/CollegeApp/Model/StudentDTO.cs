@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace CollegeApp.Model
 {
-    public class StudentDTO
+    public class StudentDto
     {
         //[ValidateNever]
         [Required]
@@ -16,6 +16,9 @@ namespace CollegeApp.Model
 
         [EmailAddress(ErrorMessage = "Please enter a valid email address")]
         public string Email { get; set; }
+
+        [Required]
+        public DateTime DOB {  get; set; }
 
         //[Required]
         //[Range(10,20)]

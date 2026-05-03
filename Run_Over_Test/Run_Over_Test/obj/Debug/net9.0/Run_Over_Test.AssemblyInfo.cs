@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Run_Over_Test")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea431e689d520e21a0c45c2a67693ac04704ec75")]
 [assembly: System.Reflection.AssemblyProductAttribute("Run_Over_Test")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Run_Over_Test")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

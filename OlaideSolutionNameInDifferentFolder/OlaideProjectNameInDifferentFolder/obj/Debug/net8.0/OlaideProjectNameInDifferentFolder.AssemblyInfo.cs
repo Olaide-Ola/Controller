@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OlaideProjectNameInDifferentFolder")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea431e689d520e21a0c45c2a67693ac04704ec75")]
 [assembly: System.Reflection.AssemblyProductAttribute("OlaideProjectNameInDifferentFolder")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OlaideProjectNameInDifferentFolder")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

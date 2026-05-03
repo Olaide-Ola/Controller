@@ -16,3 +16,22 @@ C:\Users\Olaide Ogunbunmi\source\repos\OlaideSolutionNameInDifferentFolder\Class
 C:\Users\Olaide Ogunbunmi\source\repos\OlaideSolutionNameInDifferentFolder\ClassLibraryThird\obj\Debug\net8.0\refint\ClassLibraryThird.dll
 C:\Users\Olaide Ogunbunmi\source\repos\OlaideSolutionNameInDifferentFolder\ClassLibraryThird\obj\Debug\net8.0\ClassLibraryThird.pdb
 C:\Users\Olaide Ogunbunmi\source\repos\OlaideSolutionNameInDifferentFolder\ClassLibraryThird\obj\Debug\net8.0\ref\ClassLibraryThird.dll
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\ClassLibraryThird\bin\Debug\net8.0\OlaideSecondProjectName.deps.json
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\ClassLibraryThird\bin\Debug\net8.0\OlaideSecondProjectName.runtimeconfig.json
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\ClassLibraryThird\bin\Debug\net8.0\OlaideSecondProjectName.exe
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\ClassLibraryThird\bin\Debug\net8.0\ClassLibraryThird.deps.json
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\ClassLibraryThird\bin\Debug\net8.0\ClassLibraryThird.dll
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\ClassLibraryThird\bin\Debug\net8.0\ClassLibraryThird.pdb
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\ClassLibraryThird\bin\Debug\net8.0\OlaideSecondProjectName.dll
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\ClassLibraryThird\bin\Debug\net8.0\OlaideSecondProjectName.pdb
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\ClassLibraryThird\obj\Debug\net8.0\ClassLibraryThird.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\ClassLibraryThird\obj\Debug\net8.0\ClassLibraryThird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\ClassLibraryThird\obj\Debug\net8.0\ClassLibraryThird.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\ClassLibraryThird\obj\Debug\net8.0\ClassLibraryThird.AssemblyInfo.cs
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\ClassLibraryThird\obj\Debug\net8.0\ClassLibraryThird.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\ClassLibraryThird\obj\Debug\net8.0\ClassLibraryThird.sourcelink.json
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\ClassLibraryThird\obj\Debug\net8.0\ClassLib.C4651014.Up2Date
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\ClassLibraryThird\obj\Debug\net8.0\ClassLibraryThird.dll
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\ClassLibraryThird\obj\Debug\net8.0\refint\ClassLibraryThird.dll
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\ClassLibraryThird\obj\Debug\net8.0\ClassLibraryThird.pdb
+C:\Users\user\source\repos\Controller\OlaideSolutionNameInDifferentFolder\ClassLibraryThird\obj\Debug\net8.0\ref\ClassLibraryThird.dll

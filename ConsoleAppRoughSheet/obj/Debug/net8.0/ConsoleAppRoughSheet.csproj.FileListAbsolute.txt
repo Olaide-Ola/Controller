@@ -12,3 +12,18 @@ C:\Users\Olaide Ogunbunmi\source\repos\ConsoleAppRoughSheet\obj\Debug\net8.0\ref
 C:\Users\Olaide Ogunbunmi\source\repos\ConsoleAppRoughSheet\obj\Debug\net8.0\ConsoleAppRoughSheet.pdb
 C:\Users\Olaide Ogunbunmi\source\repos\ConsoleAppRoughSheet\obj\Debug\net8.0\ConsoleAppRoughSheet.genruntimeconfig.cache
 C:\Users\Olaide Ogunbunmi\source\repos\ConsoleAppRoughSheet\obj\Debug\net8.0\ref\ConsoleAppRoughSheet.dll
+C:\Users\user\source\repos\Controller\ConsoleAppRoughSheet\bin\Debug\net8.0\ConsoleAppRoughSheet.exe
+C:\Users\user\source\repos\Controller\ConsoleAppRoughSheet\bin\Debug\net8.0\ConsoleAppRoughSheet.deps.json
+C:\Users\user\source\repos\Controller\ConsoleAppRoughSheet\bin\Debug\net8.0\ConsoleAppRoughSheet.runtimeconfig.json
+C:\Users\user\source\repos\Controller\ConsoleAppRoughSheet\bin\Debug\net8.0\ConsoleAppRoughSheet.dll
+C:\Users\user\source\repos\Controller\ConsoleAppRoughSheet\bin\Debug\net8.0\ConsoleAppRoughSheet.pdb
+C:\Users\user\source\repos\Controller\ConsoleAppRoughSheet\obj\Debug\net8.0\ConsoleAppRoughSheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Controller\ConsoleAppRoughSheet\obj\Debug\net8.0\ConsoleAppRoughSheet.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Controller\ConsoleAppRoughSheet\obj\Debug\net8.0\ConsoleAppRoughSheet.AssemblyInfo.cs
+C:\Users\user\source\repos\Controller\ConsoleAppRoughSheet\obj\Debug\net8.0\ConsoleAppRoughSheet.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Controller\ConsoleAppRoughSheet\obj\Debug\net8.0\ConsoleAppRoughSheet.sourcelink.json
+C:\Users\user\source\repos\Controller\ConsoleAppRoughSheet\obj\Debug\net8.0\ConsoleAppRoughSheet.dll
+C:\Users\user\source\repos\Controller\ConsoleAppRoughSheet\obj\Debug\net8.0\refint\ConsoleAppRoughSheet.dll
+C:\Users\user\source\repos\Controller\ConsoleAppRoughSheet\obj\Debug\net8.0\ConsoleAppRoughSheet.pdb
+C:\Users\user\source\repos\Controller\ConsoleAppRoughSheet\obj\Debug\net8.0\ConsoleAppRoughSheet.genruntimeconfig.cache
+C:\Users\user\source\repos\Controller\ConsoleAppRoughSheet\obj\Debug\net8.0\ref\ConsoleAppRoughSheet.dll

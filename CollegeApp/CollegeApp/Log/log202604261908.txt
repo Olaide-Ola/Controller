@@ -1,0 +1,52 @@
+2026-04-26 19:08:10.605 +01:00 [INF] User profile is available. Using 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-04-26 19:08:10.658 +01:00 [INF] User profile is available. Using 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-04-26 19:08:11.007 +01:00 [INF] Now listening on: https://localhost:7174
+2026-04-26 19:08:11.007 +01:00 [INF] Now listening on: https://localhost:7174
+2026-04-26 19:08:11.010 +01:00 [INF] Now listening on: http://localhost:5099
+2026-04-26 19:08:11.012 +01:00 [INF] Now listening on: http://localhost:5099
+2026-04-26 19:08:11.176 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-26 19:08:11.176 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-26 19:08:11.179 +01:00 [INF] Hosting environment: Development
+2026-04-26 19:08:11.179 +01:00 [INF] Hosting environment: Development
+2026-04-26 19:08:11.181 +01:00 [INF] Content root path: C:\Users\user\source\repos\Controller\CollegeApp\CollegeApp
+2026-04-26 19:08:11.182 +01:00 [INF] Content root path: C:\Users\user\source\repos\Controller\CollegeApp\CollegeApp
+2026-04-26 19:08:11.674 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/swagger/index.html - null null
+2026-04-26 19:08:11.680 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/swagger/index.html - null null
+2026-04-26 19:08:11.996 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-26 19:08:11.996 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-26 19:08:12.004 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/_vs/browserLink - null null
+2026-04-26 19:08:12.006 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/_vs/browserLink - null null
+2026-04-26 19:08:12.014 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/swagger/index.html - 200 null text/html;charset=utf-8 360.5842ms
+2026-04-26 19:08:12.017 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/swagger/index.html - 200 null text/html;charset=utf-8 360.5842ms
+2026-04-26 19:08:12.020 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 24.6468ms
+2026-04-26 19:08:12.021 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 24.6468ms
+2026-04-26 19:08:12.081 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/_vs/browserLink - 200 null text/javascript; charset=UTF-8 82.2799ms
+2026-04-26 19:08:12.081 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/_vs/browserLink - 200 null text/javascript; charset=UTF-8 82.2799ms
+2026-04-26 19:08:12.124 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/swagger/v1/swagger.json - null null
+2026-04-26 19:08:12.125 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/swagger/v1/swagger.json - null null
+2026-04-26 19:08:12.234 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 110.751ms
+2026-04-26 19:08:12.234 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 110.751ms
+2026-04-26 19:08:23.718 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/api/User/getalluser - null null
+2026-04-26 19:08:23.718 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/api/User/getalluser - null null
+2026-04-26 19:08:23.792 +01:00 [INF] Executing endpoint 'CollegeApp.Controllers.UserController.GetUsersAsync (CollegeApp)'
+2026-04-26 19:08:23.792 +01:00 [INF] Executing endpoint 'CollegeApp.Controllers.UserController.GetUsersAsync (CollegeApp)'
+2026-04-26 19:08:23.827 +01:00 [INF] Route matched with {action = "GetUsers", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CollegeApp.Model.APIResponse]] GetUsersAsync() on controller CollegeApp.Controllers.UserController (CollegeApp).
+2026-04-26 19:08:23.827 +01:00 [INF] Route matched with {action = "GetUsers", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CollegeApp.Model.APIResponse]] GetUsersAsync() on controller CollegeApp.Controllers.UserController (CollegeApp).
+2026-04-26 19:08:25.132 +01:00 [WRN] You do not have a valid license key for the Lucky Penny software AutoMapper. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-04-26 19:08:25.133 +01:00 [WRN] You do not have a valid license key for the Lucky Penny software AutoMapper. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-04-26 19:08:25.909 +01:00 [INF] Executed DbCommand (61ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [u].[Id], [u].[CreatededDate], [u].[IsActive], [u].[IsDeleted], [u].[ModifiedDate], [u].[Password], [u].[PasswordSalt], [u].[UserTypeId], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[IsDeleted] = CAST(0 AS bit)
+2026-04-26 19:08:25.910 +01:00 [INF] Executed DbCommand (61ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [u].[Id], [u].[CreatededDate], [u].[IsActive], [u].[IsDeleted], [u].[ModifiedDate], [u].[Password], [u].[PasswordSalt], [u].[UserTypeId], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[IsDeleted] = CAST(0 AS bit)
+2026-04-26 19:08:26.002 +01:00 [INF] Executing OkObjectResult, writing value of type 'CollegeApp.Model.APIResponse'.
+2026-04-26 19:08:26.003 +01:00 [INF] Executing OkObjectResult, writing value of type 'CollegeApp.Model.APIResponse'.
+2026-04-26 19:08:26.156 +01:00 [INF] Executed action CollegeApp.Controllers.UserController.GetUsersAsync (CollegeApp) in 2323.1342ms
+2026-04-26 19:08:26.156 +01:00 [INF] Executed action CollegeApp.Controllers.UserController.GetUsersAsync (CollegeApp) in 2323.1342ms
+2026-04-26 19:08:26.157 +01:00 [INF] Executed endpoint 'CollegeApp.Controllers.UserController.GetUsersAsync (CollegeApp)'
+2026-04-26 19:08:26.157 +01:00 [INF] Executed endpoint 'CollegeApp.Controllers.UserController.GetUsersAsync (CollegeApp)'
+2026-04-26 19:08:26.169 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/api/User/getalluser - 200 178 application/json; charset=utf-8 2452.0675ms
+2026-04-26 19:08:26.169 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/api/User/getalluser - 200 178 application/json; charset=utf-8 2452.0675ms

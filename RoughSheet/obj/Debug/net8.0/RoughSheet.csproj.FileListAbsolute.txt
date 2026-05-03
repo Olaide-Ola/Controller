@@ -12,3 +12,18 @@ C:\Users\Olaide Ogunbunmi\source\repos\RoughSheet\obj\Debug\net8.0\refint\RoughS
 C:\Users\Olaide Ogunbunmi\source\repos\RoughSheet\obj\Debug\net8.0\RoughSheet.pdb
 C:\Users\Olaide Ogunbunmi\source\repos\RoughSheet\obj\Debug\net8.0\RoughSheet.genruntimeconfig.cache
 C:\Users\Olaide Ogunbunmi\source\repos\RoughSheet\obj\Debug\net8.0\ref\RoughSheet.dll
+C:\Users\user\source\repos\controller\RoughSheet\bin\Debug\net8.0\RoughSheet.exe
+C:\Users\user\source\repos\controller\RoughSheet\bin\Debug\net8.0\RoughSheet.deps.json
+C:\Users\user\source\repos\controller\RoughSheet\bin\Debug\net8.0\RoughSheet.runtimeconfig.json
+C:\Users\user\source\repos\controller\RoughSheet\bin\Debug\net8.0\RoughSheet.dll
+C:\Users\user\source\repos\controller\RoughSheet\bin\Debug\net8.0\RoughSheet.pdb
+C:\Users\user\source\repos\controller\RoughSheet\obj\Debug\net8.0\RoughSheet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\controller\RoughSheet\obj\Debug\net8.0\RoughSheet.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\controller\RoughSheet\obj\Debug\net8.0\RoughSheet.AssemblyInfo.cs
+C:\Users\user\source\repos\controller\RoughSheet\obj\Debug\net8.0\RoughSheet.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\controller\RoughSheet\obj\Debug\net8.0\RoughSheet.sourcelink.json
+C:\Users\user\source\repos\controller\RoughSheet\obj\Debug\net8.0\RoughSheet.dll
+C:\Users\user\source\repos\controller\RoughSheet\obj\Debug\net8.0\refint\RoughSheet.dll
+C:\Users\user\source\repos\controller\RoughSheet\obj\Debug\net8.0\RoughSheet.pdb
+C:\Users\user\source\repos\controller\RoughSheet\obj\Debug\net8.0\RoughSheet.genruntimeconfig.cache
+C:\Users\user\source\repos\controller\RoughSheet\obj\Debug\net8.0\ref\RoughSheet.dll

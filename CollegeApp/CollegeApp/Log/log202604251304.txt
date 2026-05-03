@@ -1,0 +1,40 @@
+2026-04-25 13:04:35.899 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7174/api/User/create - application/json-patch+json 109
+2026-04-25 13:04:35.905 +01:00 [INF] Request starting HTTP/2 POST https://localhost:7174/api/User/create - application/json-patch+json 109
+2026-04-25 13:04:35.939 +01:00 [INF] CORS policy execution failed.
+2026-04-25 13:04:35.939 +01:00 [INF] CORS policy execution failed.
+2026-04-25 13:04:35.939 +01:00 [INF] Request origin https://localhost:7174 does not have permission to access the resource.
+2026-04-25 13:04:35.939 +01:00 [INF] Request origin https://localhost:7174 does not have permission to access the resource.
+2026-04-25 13:04:35.946 +01:00 [INF] Executing endpoint 'CollegeApp.Controllers.UserController.CreateUserAsync (CollegeApp)'
+2026-04-25 13:04:35.946 +01:00 [INF] Executing endpoint 'CollegeApp.Controllers.UserController.CreateUserAsync (CollegeApp)'
+2026-04-25 13:04:35.984 +01:00 [INF] Route matched with {action = "CreateUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CollegeApp.Model.APIResponse]] CreateUserAsync(CollegeApp.Model.UserDto) on controller CollegeApp.Controllers.UserController (CollegeApp).
+2026-04-25 13:04:35.984 +01:00 [INF] Route matched with {action = "CreateUser", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CollegeApp.Model.APIResponse]] CreateUserAsync(CollegeApp.Model.UserDto) on controller CollegeApp.Controllers.UserController (CollegeApp).
+2026-04-25 13:04:37.224 +01:00 [WRN] You do not have a valid license key for the Lucky Penny software AutoMapper. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-04-25 13:04:37.225 +01:00 [WRN] You do not have a valid license key for the Lucky Penny software AutoMapper. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-04-25 13:04:37.987 +01:00 [INF] Executed DbCommand (51ms) [Parameters=[@__dto_Username_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [u].[Id], [u].[CreatededDate], [u].[IsActive], [u].[IsDeleted], [u].[ModifiedDate], [u].[Password], [u].[PasswordSalt], [u].[UserTypeId], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__dto_Username_0
+2026-04-25 13:04:37.988 +01:00 [INF] Executed DbCommand (51ms) [Parameters=[@__dto_Username_0='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SELECT TOP(2) [u].[Id], [u].[CreatededDate], [u].[IsActive], [u].[IsDeleted], [u].[ModifiedDate], [u].[Password], [u].[PasswordSalt], [u].[UserTypeId], [u].[Username]
+FROM [Users] AS [u]
+WHERE [u].[Username] = @__dto_Username_0
+2026-04-25 13:04:38.225 +01:00 [INF] Executed DbCommand (10ms) [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (DbType = Boolean), @p2='?' (DbType = Boolean), @p3='?' (DbType = DateTime2), @p4='?' (Size = 4000), @p5='?' (Size = 4000), @p6='?' (DbType = Int32), @p7='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Users] ([CreatededDate], [IsActive], [IsDeleted], [ModifiedDate], [Password], [PasswordSalt], [UserTypeId], [Username])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7);
+2026-04-25 13:04:38.226 +01:00 [INF] Executed DbCommand (10ms) [Parameters=[@p0='?' (DbType = DateTime2), @p1='?' (DbType = Boolean), @p2='?' (DbType = Boolean), @p3='?' (DbType = DateTime2), @p4='?' (Size = 4000), @p5='?' (Size = 4000), @p6='?' (DbType = Int32), @p7='?' (Size = 4000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Users] ([CreatededDate], [IsActive], [IsDeleted], [ModifiedDate], [Password], [PasswordSalt], [UserTypeId], [Username])
+OUTPUT INSERTED.[Id]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7);
+2026-04-25 13:04:38.262 +01:00 [INF] Executing OkObjectResult, writing value of type 'CollegeApp.Model.APIResponse'.
+2026-04-25 13:04:38.262 +01:00 [INF] Executing OkObjectResult, writing value of type 'CollegeApp.Model.APIResponse'.
+2026-04-25 13:04:38.295 +01:00 [INF] Executed action CollegeApp.Controllers.UserController.CreateUserAsync (CollegeApp) in 2306.3958ms
+2026-04-25 13:04:38.295 +01:00 [INF] Executed action CollegeApp.Controllers.UserController.CreateUserAsync (CollegeApp) in 2306.3958ms
+2026-04-25 13:04:38.296 +01:00 [INF] Executed endpoint 'CollegeApp.Controllers.UserController.CreateUserAsync (CollegeApp)'
+2026-04-25 13:04:38.296 +01:00 [INF] Executed endpoint 'CollegeApp.Controllers.UserController.CreateUserAsync (CollegeApp)'
+2026-04-25 13:04:38.302 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7174/api/User/create - 200 58 application/json; charset=utf-8 2402.9472ms
+2026-04-25 13:04:38.302 +01:00 [INF] Request finished HTTP/2 POST https://localhost:7174/api/User/create - 200 58 application/json; charset=utf-8 2402.9472ms

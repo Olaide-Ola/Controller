@@ -1,0 +1,88 @@
+2026-04-18 22:35:33.185 +01:00 [INF] User profile is available. Using 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-04-18 22:35:33.226 +01:00 [INF] User profile is available. Using 'C:\Users\user\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-04-18 22:35:33.364 +01:00 [INF] Now listening on: https://localhost:7174
+2026-04-18 22:35:33.364 +01:00 [INF] Now listening on: https://localhost:7174
+2026-04-18 22:35:33.364 +01:00 [INF] Now listening on: http://localhost:5099
+2026-04-18 22:35:33.366 +01:00 [INF] Now listening on: http://localhost:5099
+2026-04-18 22:35:33.482 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-18 22:35:33.482 +01:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-04-18 22:35:33.483 +01:00 [INF] Hosting environment: Development
+2026-04-18 22:35:33.483 +01:00 [INF] Hosting environment: Development
+2026-04-18 22:35:33.483 +01:00 [INF] Content root path: C:\Users\user\source\repos\Controller\CollegeApp\CollegeApp
+2026-04-18 22:35:33.483 +01:00 [INF] Content root path: C:\Users\user\source\repos\Controller\CollegeApp\CollegeApp
+2026-04-18 22:35:33.706 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/swagger/index.html - null null
+2026-04-18 22:35:33.709 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/swagger/index.html - null null
+2026-04-18 22:35:33.887 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/swagger/index.html - 200 null text/html;charset=utf-8 183.1604ms
+2026-04-18 22:35:33.892 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-18 22:35:33.892 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/_vs/browserLink - null null
+2026-04-18 22:35:33.892 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/swagger/index.html - 200 null text/html;charset=utf-8 183.1604ms
+2026-04-18 22:35:33.892 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/_framework/aspnetcore-browser-refresh.js - null null
+2026-04-18 22:35:33.892 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/_vs/browserLink - null null
+2026-04-18 22:35:33.897 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 4.4292ms
+2026-04-18 22:35:33.897 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/_framework/aspnetcore-browser-refresh.js - 200 16505 application/javascript; charset=utf-8 4.4292ms
+2026-04-18 22:35:33.927 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/_vs/browserLink - 200 null text/javascript; charset=UTF-8 35.2471ms
+2026-04-18 22:35:33.928 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/_vs/browserLink - 200 null text/javascript; charset=UTF-8 35.2471ms
+2026-04-18 22:35:34.005 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/swagger/v1/swagger.json - null null
+2026-04-18 22:35:34.005 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/swagger/v1/swagger.json - null null
+2026-04-18 22:35:34.060 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 55.3154ms
+2026-04-18 22:35:34.060 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 55.3154ms
+2026-04-18 22:35:47.697 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/api/RolePrivilege/1 - null null
+2026-04-18 22:35:47.697 +01:00 [INF] Request starting HTTP/2 GET https://localhost:7174/api/RolePrivilege/1 - null null
+2026-04-18 22:35:47.743 +01:00 [INF] Executing endpoint 'CollegeApp.Controllers.RolePrivilegeController.GetRolePrivilegeByIdAsync (CollegeApp)'
+2026-04-18 22:35:47.743 +01:00 [INF] Executing endpoint 'CollegeApp.Controllers.RolePrivilegeController.GetRolePrivilegeByIdAsync (CollegeApp)'
+2026-04-18 22:35:47.772 +01:00 [INF] Route matched with {action = "GetRolePrivilegeById", controller = "RolePrivilege"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CollegeApp.Model.APIResponse]] GetRolePrivilegeByIdAsync(Int32) on controller CollegeApp.Controllers.RolePrivilegeController (CollegeApp).
+2026-04-18 22:35:47.772 +01:00 [INF] Route matched with {action = "GetRolePrivilegeById", controller = "RolePrivilege"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[CollegeApp.Model.APIResponse]] GetRolePrivilegeByIdAsync(Int32) on controller CollegeApp.Controllers.RolePrivilegeController (CollegeApp).
+2026-04-18 22:35:47.876 +01:00 [WRN] You do not have a valid license key for the Lucky Penny software AutoMapper. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-04-18 22:35:47.876 +01:00 [WRN] You do not have a valid license key for the Lucky Penny software AutoMapper. This is allowed for development and testing scenarios. If you are running in production you are required to have a licensed version. Please visit https://luckypennysoftware.com to obtain a valid license.
+2026-04-18 22:35:49.257 +01:00 [INF] Executed DbCommand (55ms) [Parameters=[@__roleId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [r].[Id], [r].[CreatededDate], [r].[Description], [r].[IsActive], [r].[IsDeleted], [r].[ModifiedDate], [r].[RoleId], [r].[RolePrivilegeName]
+FROM [RolePrivileges] AS [r]
+WHERE [r].[RoleId] = @__roleId_0
+2026-04-18 22:35:49.258 +01:00 [INF] Executed DbCommand (55ms) [Parameters=[@__roleId_0='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SELECT [r].[Id], [r].[CreatededDate], [r].[Description], [r].[IsActive], [r].[IsDeleted], [r].[ModifiedDate], [r].[RoleId], [r].[RolePrivilegeName]
+FROM [RolePrivileges] AS [r]
+WHERE [r].[RoleId] = @__roleId_0
+2026-04-18 22:35:49.305 +01:00 [INF] Executed action CollegeApp.Controllers.RolePrivilegeController.GetRolePrivilegeByIdAsync (CollegeApp) in 1527.7523ms
+2026-04-18 22:35:49.305 +01:00 [INF] Executed action CollegeApp.Controllers.RolePrivilegeController.GetRolePrivilegeByIdAsync (CollegeApp) in 1527.7523ms
+2026-04-18 22:35:49.306 +01:00 [INF] Executed endpoint 'CollegeApp.Controllers.RolePrivilegeController.GetRolePrivilegeByIdAsync (CollegeApp)'
+2026-04-18 22:35:49.306 +01:00 [INF] Executed endpoint 'CollegeApp.Controllers.RolePrivilegeController.GetRolePrivilegeByIdAsync (CollegeApp)'
+2026-04-18 22:35:49.336 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at CollegeApp.Controllers.RolePrivilegeController.GetRolePrivilegeByIdAsync(Int32 roleId) in C:\Users\user\source\repos\Controller\CollegeApp\CollegeApp\Controllers\RolePrivilegeController.cs:line 104
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-04-18 22:35:49.336 +01:00 [ERR] An unhandled exception has occurred while executing the request.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at CollegeApp.Controllers.RolePrivilegeController.GetRolePrivilegeByIdAsync(Int32 roleId) in C:\Users\user\source\repos\Controller\CollegeApp\CollegeApp\Controllers\RolePrivilegeController.cs:line 104
+   at lambda_method6(Closure, Object)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.AwaitableObjectResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeInnerFilterAsync>g__Awaited|13_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+2026-04-18 22:35:49.349 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/api/RolePrivilege/1 - 500 null text/plain; charset=utf-8 1651.8229ms
+2026-04-18 22:35:49.349 +01:00 [INF] Request finished HTTP/2 GET https://localhost:7174/api/RolePrivilege/1 - 500 null text/plain; charset=utf-8 1651.8229ms
